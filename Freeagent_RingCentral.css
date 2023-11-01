@@ -2248,7 +2248,7 @@ input:checked + .Switch_slider:before {
   overflow: hidden;
   display: inline-block;
   width: 19%;
-  height: 100%;
+  height: 300%;
 }
 
 .DialerPanel_dialBtn g,
